@@ -16,32 +16,32 @@ Here are some ideas to get you started:
 
 ### Social Networks
 <!-- Linkedin -->
-<a href="https://www.linkedin.com/in/devamirhemmati">
+<a href="https://www.linkedin.com/in/devamirhemmati" target="_blank"> 
   <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
 </a>
 
 <!-- Twitter -->
-<a href="https://twitter.com/DevAmirHemmati">
+<a href="https://twitter.com/DevAmirHemmati" target="_blank">
   <img align="left" width="26px" src="https://icons-for-free.com/iconfiles/png/512/social+tweet+twitter+icon-1320192294140475236.png" />
 </a>
 
 <!-- Email -->
-<a href="mailto:dev.amirhemmati1382@gmail.com">
+<a href="mailto:dev.amirhemmati1382@gmail.com" target="_blank">
   <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" />
 </a>
 
 <!-- Telegram -->
-<a href="https://t.me/devAmirHemmati">
+<a href="https://t.me/devAmirHemmati" target="_blank">
   <img align="left" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/telegram-3-226554.png" />
 </a>
 
 <!-- Whatsapp -->
-<a href="https://wa.me/989399440750">
+<a href="https://wa.me/989399440750" target="_blank">
   <img align="left" width="26px" src="https://w7.pngwing.com/pngs/672/164/png-transparent-whatsapp-icon-whatsapp-logo-computer-icons-zubees-halal-foods-whatsapp-text-circle-unified-payments-interface.png" />
 </a>
 
 <!-- Virgool -->
-<a href="https://virgool.io/@devAmirHemmati">
+<a href="https://virgool.io/@devAmirHemmati" target="_blank">
   <img align="left" width="26px" src="https://play-lh.googleusercontent.com/tOkLihd4kSlq7PyUi5V3TUEL6A4i_N_N3nyngtKx5vxCbpzTMR0gpW1JLKwkdgBSJg=w500" />
 </a>
 
