@@ -1,4 +1,14 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Amirreza Hemmati!](https://www.linkedin.com/in/devamirhemmati) 
+<div align="center">
+  <h2>
+    Hey <br/> <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜 />  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+    <br />
+    I'm 
+    <br />
+    <a href="https://www.linkedin.com/in/devamirhemmati" target="_blank">Amirreza Hemmati</a>
+    <br/><br/>
+  </h2>
+</div>
+
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +23,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 🚀
+> 🌱 I'm a Front end web developer(React.js)
+
+👨‍💻  JavaScript(ReactJS) developer with +3 years experience in develop
+<br />
+I built many websites such as SMS marketing managment panel, build Email template with drag and drop and some others ...
+
+<br />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=devAmirHemmati&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=fff&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats"/>
+<br/>
+
+![Amir's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devAmirHemmati&layout=compact&langs_count=20include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=fff&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40)
+<br /><br/>
+
+
+### 📕 Blog Posts
+- [Javascript: The splice method for array in js](https://virgool.io/@devAmirHemmati/splice-in-js-go7tstn6kohx)
+- [React.js: My work experience in redux and context](https://virgool.io/@devAmirHemmati/redux-and-context-jwhlces2t42g)
+- [Javascript: Find and filter methods for array in js](https://virgool.io/@devAmirHemmati/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AA%D8%AF-%D9%87%D8%A7%DB%8C-find-%D9%88-filter-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-q7sw2oo2l56f)
+- [Javascript: Push, pop, shift, unshift methods for array in js](https://virgool.io/@devAmirHemmati/%D9%85%D8%AA%D8%AF-%D9%87%D8%A7%DB%8C-push-pop-shift-unshift-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-oxfmvi9hlw2o)
+
+<br/>
+<hr />
 
 ### Social Networks 🗣
 <!-- Linkedin -->
@@ -44,25 +79,3 @@ Here are some ideas to get you started:
 <a href="https://virgool.io/@devAmirHemmati" target="_blank">
   <img align="left" width="26px" src="https://play-lh.googleusercontent.com/tOkLihd4kSlq7PyUi5V3TUEL6A4i_N_N3nyngtKx5vxCbpzTMR0gpW1JLKwkdgBSJg=w500" />
 </a>
-
-<br /><br />
-
-### About Me 🚀
-> 🌱 I'm a Front end web developer(React.js)
-
-👨‍💻  JavaScript(ReactJS) developer with +3 years experience in develop
-<br />
-I built many websites such as SMS marketing managment panel, build Email template with drag and drop and some others ...
-
-<br /><hr /><br/>
-
-![Amir's github stats](https://github-readme-stats.vercel.app/api?username=devAmirHemmati&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Amir's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devAmirHemmati&layout=compact&langs_count=20)
-<br />
-
-
-### 📕 Blog Posts
-- [Javascript: The splice method for array in js](https://virgool.io/@devAmirHemmati/splice-in-js-go7tstn6kohx)
-- [React.js: My work experience in redux and context](https://virgool.io/@devAmirHemmati/redux-and-context-jwhlces2t42g)
-- [Javascript: Find and filter methods for array in js](https://virgool.io/@devAmirHemmati/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AA%D8%AF-%D9%87%D8%A7%DB%8C-find-%D9%88-filter-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-q7sw2oo2l56f)
-- [Javascript: Push, pop, shift, unshift methods for array in js](https://virgool.io/@devAmirHemmati/%D9%85%D8%AA%D8%AF-%D9%87%D8%A7%DB%8C-push-pop-shift-unshift-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-oxfmvi9hlw2o)
