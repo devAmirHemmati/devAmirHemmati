@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Social Networks
+### Social Networks 🗣
 <!-- Linkedin -->
 <a href="https://www.linkedin.com/in/devamirhemmati" target="_blank"> 
   <img align="left" width="24px" src="https://image.flaticon.com/icons/png/512/174/174857.png"  />
@@ -45,20 +45,24 @@ Here are some ideas to get you started:
   <img align="left" width="26px" src="https://play-lh.googleusercontent.com/tOkLihd4kSlq7PyUi5V3TUEL6A4i_N_N3nyngtKx5vxCbpzTMR0gpW1JLKwkdgBSJg=w500" />
 </a>
 
-<br />
+<br /><br />
 
 ### About Me 🚀
-🌱 I'm a Front end web developer(React.js)
-<br /><br />
+> 🌱 I'm a Front end web developer(React.js)
+
 👨‍💻  JavaScript(ReactJS) developer with +3 years experience in develop
 <br />
 I built many websites such as SMS marketing managment panel, build Email template with drag and drop and some others ...
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=devAmirHemmati&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devAmirHemmati&layout=compact&langs_count=20)
+<br /><hr /><br/>
+
+![Amir's github stats](https://github-readme-stats.vercel.app/api?username=devAmirHemmati&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Amir's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devAmirHemmati&layout=compact&langs_count=20)
 <br />
 
 
 ### 📕 Blog Posts
-- [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
+- [Javascript: The splice method for array in js](https://virgool.io/@devAmirHemmati/splice-in-js-go7tstn6kohx)
+- [React.js: My work experience in redux and context](https://virgool.io/@devAmirHemmati/redux-and-context-jwhlces2t42g)
+- [Javascript: Find and filter methods for array in js](https://virgool.io/@devAmirHemmati/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%D9%85%D8%AA%D8%AF-%D9%87%D8%A7%DB%8C-find-%D9%88-filter-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-q7sw2oo2l56f)
+- [Javascript: Push, pop, shift, unshift methods for array in js](https://virgool.io/@devAmirHemmati/%D9%85%D8%AA%D8%AF-%D9%87%D8%A7%DB%8C-push-pop-shift-unshift-%D8%AF%D8%B1-%D8%AC%D8%A7%D9%88%D8%A7-%D8%A7%D8%B3%DA%A9%D8%B1%DB%8C%D9%BE%D8%AA-oxfmvi9hlw2o)
