@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### About Me 🚀
 > 🌱 I'm a Front end web developer(React.js)
 
-👨‍💻  JavaScript(ReactJS) developer with +4 years experience in develop
+👨‍💻  JavaScript(ReactJS) developer with +3 years experience in develop
 <br />
 I built many websites such as SMS marketing managment panel, build Email template with drag and drop and some others ...
 
